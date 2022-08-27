@@ -25,6 +25,7 @@ Kesm is an application created to solve certain problems that I encountered whil
 
 * Vue 3
 * Vue Router
+* Vite
 * Pinia
 * Tailwind
 * Firebase

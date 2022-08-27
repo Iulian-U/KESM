@@ -8,7 +8,7 @@
 
 ## About
 
-Kesm is an application created to solve certain problems that I encountered while I was working as a Quality Analyst and Team Leader. The team I was in charge of had ended up storing data in more than 15 excel files at the same time. This led to several problems including data loss and corrupted files. This is where Kesm comes in, an application that centralizes all these files in a single web page. The user who uses the application has the possibility to store data in different tables, these data can be downloaded in the form of an excel file formatted and renamed according to the user's needs
+Kesm is an application created to solve certain problems that I encountered while I was working as a Quality Analyst and Team Leader. The team I was in charge of had ended up storing data in more than 15 excel files at the same time. This led to several problems including data loss and corrupted files. This is where Kesm comes in, an application that centralizes all these files in a single web page. The user who uses the application has the possibility to store data in different tables, which can be downloaded in the form of an excel file formatted and renamed according to the user's needs.
 
 
 ## Features and Stack

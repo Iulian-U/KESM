@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
+  apiKey: import.meta.env.VITE_API_KEY,
   authDomain: "kesm-project.firebaseapp.com",
   projectId: "kesm-project",
   storageBucket: "kesm-project.appspot.com",
